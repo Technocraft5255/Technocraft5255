@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Technocraft5255
 - 👀 I’m interested in python, arduino and fritzing parts
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C
 - 📫 You can reach me on emilien.mariau@gmail.com
 
 <!---
