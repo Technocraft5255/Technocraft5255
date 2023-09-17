@@ -1,7 +1,7 @@
  # Hello I am Technocraft5255
 
-- I’m interested in python, arduino and fritzing parts
-- I’m currently learning C
+-  currently code in Python, HTML-CSS-JSS, PHP-SQL, Arduino
+- I’m currently learning JS
 - You can reach me on emilien.mariau@gmail.com or with +33 7 49 63 48 74
 
 <!---
