@@ -1,7 +1,7 @@
  # Hello I am Technocraft5255
 
-- I currently code in Python, HTML-CSS-JSS, PHP-SQL, Arduino
-- I’m currently learning JS
+- I currently code in Python, HTML-CSS, PHP, Arduino and C
+- I’m currently learning JS and SQL
 - You can reach me on **emilien.mariau@gmail.com**
 
 <!---
